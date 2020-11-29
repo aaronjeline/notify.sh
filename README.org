@@ -1,0 +1,7 @@
+#+TITLE: Readme
+#+OPTIONS: toc:nil
+
+* Notify.sh
+** A simple tool for sending notifications in OS X
+Usage as follows:
+~./notify.sh <title> <description>~
